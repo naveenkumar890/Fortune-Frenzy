@@ -21,8 +21,8 @@ Experience the thrill of Fortune Frenzy now! Click the link below to start playi
    ```sh
    git clone https://github.com/naveenkumar890/Fortune-Frenzy.git
 
-2 Open index.html in your browser to start playing locally.
-🤝 Contributing
-Want to improve Fortune Frenzy? Feel free to fork the repository and submit a pull request!
-📜 License
-This project is licensed under the MIT License.
+## 2 Open index.html in your browser to start playing locally.
+## 🤝 Contributing
+- **Want to improve Fortune Frenzy? Feel free to fork the repository and submit a pull request!**
+## 📜 License
+- **This project is licensed under the MIT License.**
